@@ -6,7 +6,7 @@
     <img width="300" src="https://github.com/Luana-Guezi/Otimizando-Pesquisas-de-Procedimentos-Operacionais-com-Microsoft-Copilot-Studio/blob/main/imagem_capa.jpg">
 </p>
 
-<a href="https://github.com/Luana-Guezi/Otimizando-Pesquisas-de-Procedimentos-Operacionais-com-Microsoft-Copilot-Studio/commit/f0c8bac862831c8e1e8d02767e0e2e124d241aa8"> 📕Clique aqui para ler</a>
+<a href="Otimizando_Pesquisas_de_Procedimentos_Operacionais_com_Microsoft_Copilot_Studio.pdf"> 📕Clique aqui para ler</a>
 
 
 ## 💻 Tecnologias utilizadas no projeto
