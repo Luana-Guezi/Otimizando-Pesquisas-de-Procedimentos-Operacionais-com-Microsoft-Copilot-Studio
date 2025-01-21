@@ -3,7 +3,7 @@
 # Otimizando-Pesquisas-de-Procedimentos-Operacionais-com-Microsoft-Copilot-Studio: Uma Solução para a Saúde e Qualidade Corporativa 
 
 <p align="center">
-    <img width="300" src="https://github.com/Luana-Guezi/Otimizando-Pesquisas-de-Procedimentos-Operacionais-com-Microsoft-Copilot-Studio/commit/f0c8bac862831c8e1e8d02767e0e2e124d241aa8">
+    <img width="300" src="https://github.com/Luana-Guezi/Otimizando-Pesquisas-de-Procedimentos-Operacionais-com-Microsoft-Copilot-Studio/blob/main/imagem_capa.jpg">
 </p>
 
 <a href="https://github.com/Luana-Guezi/podcast-gerado-por-ia/blob/main/Podcast_Ep_1__IA_Luana_Guezi.MP3"> 📕Clique aqui para ler</a>
