@@ -1,6 +1,6 @@
 # Desafio CAIXA - Criando Impacto Social com IA
 
-# Otimizando-Pesquisas-de-Procedimentos-Operacionais-com-Microsoft-Copilot-Studio: Uma Solução para a Saúde e Qualidade Corporativa 
+# Otimizando Pesquisas de Procedimentos Operacionais com Microsoft Copilot Studio: Uma Solução para a Saúde e Qualidade Corporativa  
 
 <p align="center">
     <img width="400" src="https://github.com/Luana-Guezi/Otimizando-Pesquisas-de-Procedimentos-Operacionais-com-Microsoft-Copilot-Studio/blob/main/imagem_capa.jpg">
